@@ -1,0 +1,14 @@
+article{
+    text-align: center;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    align-items: center;
+}
+
+input{
+    width: 200px; 
+}
